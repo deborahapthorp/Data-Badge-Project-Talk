@@ -72,6 +72,11 @@ All code is here: [OSF](https://osf.io/xzke7/)
 -   Took days, could not exactly reproduce results
 -   The two with code were not any easier
 
+::: footer
+All code is here: [OSF](https://osf.io/xzke7/)
+:::
+
+
 ## Phase 2 Reports
 
 -   We did not commence this stage until each paper had at least 3 Phase 1 reports
@@ -93,8 +98,9 @@ All code is here: [OSF](https://osf.io/xzke7/)
 
 ![](images/Group_Table.png)
 
-## Recommmendations
+## Recommmendations/Conclusions
 
+- To work effectively, badges need to be more than tokens
 -   Journals offering badges could provide more support for authors
 -   Criteria for awarding badges should be clear and explicit (e.g. code, readme, raw data)
 -   Badge checks
