@@ -1,0 +1,118 @@
+---
+title: "The Data Badge Project"
+subtitle: "Do badges encourage computational reproducibility?"
+author: "Deborah Apthorp, Sophia Crüwell"
+format: 
+  revealjs: 
+    theme: sky
+    incremental: true
+    preview-links: auto
+    logo: images/Open-data-badge.png
+    css: logo.css
+editor: visual
+---
+
+## Project origins
+
+-   It all began with a tweet
+-   Nick Brown called for volunteers to help with a project
+-   All articles in the April 2019 issue of *Psychological Science* earned an "Open Data" badge (the first issue where this was the case)
+-   Could a team of researchers reproduce the published results?
+-   Of course I signed up!
+
+::: footer
+Preprint: [PsyArXiv](https://psyarxiv.com/729qt)
+:::
+
+## Organisation
+
+-   The final team consisted of 12 researchers
+-   Varying levels of experience - PhD students & upwards
+-   Each paper was allocated to at least 3 reproducers
+-   Communication via Google Groups
+-   First stage - independent reproduction attempts
+-   Uploaded to OSF
+-   Phase 1 reports
+
+::: footer
+All code is here: [OSF](https://osf.io/xzke7/)
+:::
+
+## Team
+
+::: nonincremental
+::: columns
+::: {.column width="50%"}
+-   Sohpia Crüwell
+-   Me
+-   Bradley J. Baker
+-   Lincoln Colling
+-   Malte Elson
+-   Sandra J. Geiger
+:::
+
+::: {.column width="50%"}
+-   Sebastian Lobentanzer
+-   Jean Monéger
+-   Alex Patterson
+-   D. Samuel Schwarzkopf
+-   Mirela Zaneva
+-   Nicholas J. L. Brown
+:::
+:::
+:::
+
+## My experience
+
+-   I was initially assigned 4 papers to work on (based on expertise)
+-   All had data, 2 had code (MATLAB)
+-   Time taken per paper: between 2-3 hours and 2 days
+-   One without code was easy to reproduce (simple analyses) - Article 101
+-   The other without code had VERY raw data
+-   Took days, could not exactly reproduce results
+-   The two with code were not any easier
+
+## Phase 2 Reports
+
+-   We did not commence this stage until each paper had at least 3 Phase 1 reports
+-   I ended up working on a 5th paper due to drop-outs in the team
+-   We communicated via threads on Google Groups
+-   Wrote summary reports collaboratively on Google Docs
+-   Agreed on ratings for each paper
+-   How reproducible? Exactly/Essentially/Partially/Mostly Not/Not at all
+
+## Results!
+
+### Individual ratings
+
+![](images/Individual_Table.png)
+
+## Results!
+
+### Group ratings
+
+![](images/Group_Table.png)
+
+## Recommmendations
+
+-   Journals offering badges could provide more support for authors
+-   Criteria for awarding badges should be clear and explicit (e.g. code, readme, raw data)
+-   Badge checks
+    -   Authors could provide evidence of independent code checks
+    -   Journals could provide this service (via editorial staff or peer review)
+
+## Publication
+
+-   Sophia Crüwell took over as first author to write the final manuscript
+-   We submitted to *Psychological Science* in April 2022
+-   To our surprise, not rejected!
+-   Generally positive, constructive peer reviews
+-   After revision, reviewers happy
+-   HOWEVER, editor insisted on several more rounds of changes
+-   Now accepted, due out soon!
+
+# Questions?
+
+::: r-stack
+Hopefully there is time for some questions
+:::
