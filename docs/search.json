@@ -1,0 +1,65 @@
+[
+  {
+    "objectID": "Data Badge Project Talk.html#project-origins",
+    "href": "Data Badge Project Talk.html#project-origins",
+    "title": "The Data Badge Project",
+    "section": "Project origins",
+    "text": "Project origins\n\nIt all began with a tweet\nNick Brown called for volunteers to help with a project\nAll articles in the April 2019 issue of Psychological Science earned an “Open Data” badge (the first issue where this was the case)\nCould a team of researchers reproduce the published results?\nOf course I signed up!\n\n\nPreprint: PsyArXiv"
+  },
+  {
+    "objectID": "Data Badge Project Talk.html#organisation",
+    "href": "Data Badge Project Talk.html#organisation",
+    "title": "The Data Badge Project",
+    "section": "Organisation",
+    "text": "Organisation\n\nThe final team consisted of 12 researchers\nVarying levels of experience - PhD students & upwards\nEach paper was allocated to at least 3 reproducers\nCommunication via Google Groups\nFirst stage - independent reproduction attempts\nUploaded to OSF\nPhase 1 reports\n\n\nAll code is here: OSF"
+  },
+  {
+    "objectID": "Data Badge Project Talk.html#team",
+    "href": "Data Badge Project Talk.html#team",
+    "title": "The Data Badge Project",
+    "section": "Team",
+    "text": "Team\n\n\n\n\nSohpia Crüwell\nMe\nBradley J. Baker\nLincoln Colling\nMalte Elson\nSandra J. Geiger\n\n\n\nSebastian Lobentanzer\nJean Monéger\nAlex Patterson\nD. Samuel Schwarzkopf\nMirela Zaneva\nNicholas J. L. Brown"
+  },
+  {
+    "objectID": "Data Badge Project Talk.html#my-experience",
+    "href": "Data Badge Project Talk.html#my-experience",
+    "title": "The Data Badge Project",
+    "section": "My experience",
+    "text": "My experience\n\nI was initially assigned 4 papers to work on (based on expertise)\nAll had data, 2 had code (MATLAB)\nTime taken per paper: between 2-3 hours and 2 days\nOne without code was easy to reproduce (simple analyses) - Article 101\nThe other without code had VERY raw data\nTook days, could not exactly reproduce results\nThe two with code were not any easier\n\n\nAll code is here: OSF"
+  },
+  {
+    "objectID": "Data Badge Project Talk.html#phase-2-reports",
+    "href": "Data Badge Project Talk.html#phase-2-reports",
+    "title": "The Data Badge Project",
+    "section": "Phase 2 Reports",
+    "text": "Phase 2 Reports\n\nWe did not commence this stage until each paper had at least 3 Phase 1 reports\nI ended up working on a 5th paper due to drop-outs in the team\nWe communicated via threads on Google Groups\nWrote summary reports collaboratively on Google Docs\nAgreed on ratings for each paper\nHow reproducible? Exactly/Essentially/Partially/Mostly Not/Not at all"
+  },
+  {
+    "objectID": "Data Badge Project Talk.html#results",
+    "href": "Data Badge Project Talk.html#results",
+    "title": "The Data Badge Project",
+    "section": "Results!",
+    "text": "Results!\nIndividual ratings"
+  },
+  {
+    "objectID": "Data Badge Project Talk.html#results-1",
+    "href": "Data Badge Project Talk.html#results-1",
+    "title": "The Data Badge Project",
+    "section": "Results!",
+    "text": "Results!\nGroup ratings"
+  },
+  {
+    "objectID": "Data Badge Project Talk.html#recommmendationsconclusions",
+    "href": "Data Badge Project Talk.html#recommmendationsconclusions",
+    "title": "The Data Badge Project",
+    "section": "Recommmendations/Conclusions",
+    "text": "Recommmendations/Conclusions\n\nDo badges work? Not on their own\nJournals offering badges could provide more support for authors\nCriteria for awarding badges should be clear and explicit (e.g. code, readme, raw data)\nBadge checks\n\nAuthors could provide evidence of independent code checks\nJournals could provide this service (via editorial staff or peer review)"
+  },
+  {
+    "objectID": "Data Badge Project Talk.html#publication",
+    "href": "Data Badge Project Talk.html#publication",
+    "title": "The Data Badge Project",
+    "section": "Publication",
+    "text": "Publication\n\nSophia Crüwell took over as first author to write the final manuscript\nWe submitted to Psychological Science in April 2022\nTo our surprise, not rejected!\nGenerally positive, constructive peer reviews\nAfter revision, reviewers happy\nHOWEVER, editor insisted on several more rounds of changes\nNow accepted, due out soon!"
+  }
+]
