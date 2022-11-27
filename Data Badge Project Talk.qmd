@@ -12,6 +12,13 @@ format:
 editor: visual
 ---
 
+## Link for slides
+
+![](images/QRcode.png)
+
+[bit.ly/databadgeproject](https://bit.ly/databadgeproject)
+
+
 ## Project origins
 
 -   It all began with a tweet
