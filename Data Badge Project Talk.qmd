@@ -100,12 +100,20 @@ All code is here: [OSF](https://osf.io/xzke7/)
 
 ## Recommmendations/Conclusions
 
+::: columns
+::: {.column width="50%"}
 - Do badges work? Not on their own
 - Journals offering badges could provide more support for authors
 - Criteria for awarding badges should be clear and explicit (e.g. code, readme, raw data)
+:::
+
+::: {.column width="50%"}
 -   Badge checks
     -   Authors could provide evidence of independent code checks
     -   Journals could provide this service (via editorial staff or peer review)
+:::
+
+:::
 
 ## Publication
 
