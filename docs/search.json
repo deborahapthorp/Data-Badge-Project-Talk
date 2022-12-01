@@ -32,7 +32,7 @@
     "href": "Data Badge Project Talk.html#phase-2-reports",
     "title": "The Data Badge Project",
     "section": "Phase 2 Reports",
-    "text": "Phase 2 Reports\n\nWe did not commence this stage until each paper had at least 3 Phase 1 reports\nI ended up working on a 5th paper due to drop-outs in the team\nWe communicated via threads on Google Groups\nWrote summary reports collaboratively on Google Docs\nAgreed on ratings for each paper\nHow reproducible? Exactly/Essentially/Partially/Mostly Not/Not at all"
+    "text": "Phase 2 Reports\n\nWe did not commence this stage until each paper had at least 3 Phase 1 reports\nI ended up working on a 5th paper due to drop-outs\nWe communicated via threads on Google Groups\nSophia Crüwell took over as first author\nWrote summary reports collaboratively on Google Docs\nAgreed on ratings for each paper\nHow reproducible? Exactly/Essentially/Partially/Mostly Not/Not at all"
   },
   {
     "objectID": "Data Badge Project Talk.html#results",
@@ -60,7 +60,7 @@
     "href": "Data Badge Project Talk.html#publication",
     "title": "The Data Badge Project",
     "section": "Publication",
-    "text": "Publication\n\nSophia Crüwell took over as first author to write the final manuscript\nWe submitted to Psychological Science in April 2022\nTo our surprise, not rejected!\nGenerally positive, constructive peer reviews\nAfter revision, reviewers happy\nHOWEVER, editor insisted on several more rounds of changes\nNow accepted, due out soon!"
+    "text": "Publication\n\nSophia took the lead in writing the final manuscript\nWe submitted to Psychological Science in April 2022\nTo our surprise, not rejected!\nGenerally positive, constructive peer reviews\nAfter revision, reviewers happy\nHOWEVER, editor insisted on several more rounds of changes\nNow accepted, due out soon!"
   },
   {
     "objectID": "Data Badge Project Talk.html#link-for-slides",
@@ -68,5 +68,12 @@
     "title": "The Data Badge Project",
     "section": "Link for slides",
     "text": "Link for slides\n\nbit.ly/databadgeproject"
+  },
+  {
+    "objectID": "Data Badge Project Talk.html#conclusions",
+    "href": "Data Badge Project Talk.html#conclusions",
+    "title": "The Data Badge Project",
+    "section": "Conclusions",
+    "text": "Conclusions\n\n\n\nDo badges work? Not on their own\nJournals offering badges could provide more support for authors\nCriteria for awarding badges should be clear and explicit (e.g. code, readme, raw data)\n\n\n\nBadge checks\n\nAuthors could provide evidence of independent code checks\nJournals could provide this service (via editorial staff or peer review)"
   }
 ]
